@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning HTML/CSS, JavaScript, React & Redux.
 - 💬 Ask me about ...
 - 📫 How to reach me: aliezeali77@gmail.com
-- ⚡ Fun fact: I love cats, hats & movies!!
+- ⚡ Fun fact: I love cats, hats, movies & yoga mats!!
 -->
 
 Skills
